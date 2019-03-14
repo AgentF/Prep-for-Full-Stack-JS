@@ -19,11 +19,27 @@
   - [ ] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
   - [ ] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [ ] [ES6 & Beyong](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-> ###### Some meterials I found useful
-> - [Sort and Search Algorithms in JS](https://www.nczonline.net/blog/tag/computer-science/)
-> - [Harvard - CS50x - Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
-> - [The Promise of a Burger Party - Mariko Kosaka](https://kosamari.com/notes/the-promise-of-a-burger-party)
-> - [JS concepts you should know](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
+
+### Some useful meterial
+- [ ] [Sort and Search Algorithms in JS](https://www.nczonline.net/blog/tag/computer-science/)
+  - [ ] [Circular Doubly-linked lists](https://humanwhocodes.com/blog/2019/03/computer-science-in-javascript-circular-doubly-linked-lists/)
+  - [ ] [Doubly linked lists](https://humanwhocodes.com/blog/2019/02/computer-science-in-javascript-doubly-linked-lists/)
+  - [ ] [Linked list](https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/)
+  - [ ] [Quicksort](https://humanwhocodes.com/blog/2012/11/27/computer-science-in-javascript-quicksort/)
+  - [ ] [Merge sort](https://humanwhocodes.com/blog/2012/10/02/computer-science-and-javascript-merge-sort/)
+  - [ ] [Insertion sort](https://humanwhocodes.com/blog/2012/09/17/computer-science-in-javascript-insertion-sort/)
+  - [ ] [Base64 encoding](https://humanwhocodes.com/blog/2009/12/08/computer-science-in-javascript-base64-encoding/)
+  - [ ] [Selection sort](https://humanwhocodes.com/blog/2009/09/08/computer-science-in-javascript-selection-sort/)
+  - [ ] [Binary search](https://humanwhocodes.com/blog/2009/09/01/computer-science-in-javascript-binary-search/)
+  - [ ] [Binary search tree, Part 1](https://humanwhocodes.com/blog/2009/06/09/computer-science-in-javascript-binary-search-tree-part-1/)
+  - [ ] [Binary search tree, Part 2](https://humanwhocodes.com/blog/2009/06/16/computer-science-in-javascript-binary-search-tree-part-2/)
+  - [ ] [Bubble sort](https://humanwhocodes.com/blog/2009/05/26/computer-science-in-javascript-bubble-sort/)
+  - [ ] [Doubly-linked lists](https://humanwhocodes.com/blog/2009/04/21/computer-science-in-javascript-doubly-linked-lists/)
+  - [ ] [Linked list](https://humanwhocodes.com/blog/2009/04/13/computer-science-in-javascript-linked-list/)
+
+- [Harvard - CS50x - Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+- [The Promise of a Burger Party - Mariko Kosaka](https://kosamari.com/notes/the-promise-of-a-burger-party)
+- [JS concepts you should know](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
 
 
 ### Javascript design patterns
@@ -37,7 +53,6 @@
 
 
 ### Data Structures and Algorithms  
-- [Algorithms and Data Structures in JS with Bianca Gandolfo](https://frontendmasters.com/workshops/algorithms-data-structures-js/)
 - [Data Structures – basecs – Medium](https://medium.com/basecs/tagged/data-structures)
 - [Algorithms – basecs – Medium](https://medium.com/basecs/tagged/algorithms)
 
