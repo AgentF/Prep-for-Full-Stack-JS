@@ -125,12 +125,8 @@
   - [ ] Redux
   - [ ] Mobx
 
-
-### NodeJS
-> - [ ] To Do
-
-
-### APIs and Databases
+### Backend, APIs and Databases
+- [ ] NodeJS
 - [ ] MongoDB
 - [ ] Express
 - [ ] GraphQL
