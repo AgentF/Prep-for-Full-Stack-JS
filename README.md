@@ -118,21 +118,24 @@
     - [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
 
+### State Management
+- [ ] Reasearch
+  - [ ] Flux
+  - [ ] Reflux
+  - [ ] Redux
+  - [ ] Mobx
 
-### Learn State Management
-- [ ] State Management in React
-- [Advanced State Management in React (feat. Redux and MobX)](https://frontendmasters.com/courses/react-state/)
-- [Node with React: Fullstack Web Development | Udemy](https://www.udemy.com/node-with-react-fullstack-web-development/)
 
-### Learn a Backend Framework
-- [ ] NodeJS and React
-- [Node with React: Fullstack Web Development | Udemy](https://www.udemy.com/node-with-react-fullstack-web-development/)
+### NodeJS
+> - To Do
+
 
 ### APIs and Databases
-- [ ] Creating API (NodeJS and express)
-- [ ] Learning MongoDB and GraphQL
-- [API Design in Node.js (using Express & Mongo)](https://frontendmasters.com/courses/api-design-nodejs/)
-- [REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)](https://frontendmasters.com/courses/api-node-rest-graphql/)
+- [ ] MongoDB
+- [ ] Express
+- [ ] GraphQL
+- [ ] Creating an API
+
 
 ----------
 
@@ -140,3 +143,4 @@
 Did We miss something? Raise a PR. 🙌
 The original maker would love to hear about your journey, tweet to me [@siwalik](https://www.twitter.com/siwalik)
 I would be glad if I helped someone else if that's you tweet me as well [@Agente_F](https://twitter.com/Agente_F)
+"When in doubt go to the source"
