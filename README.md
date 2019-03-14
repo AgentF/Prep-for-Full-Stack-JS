@@ -108,14 +108,14 @@
     - [ ] [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
     - [ ] [Web Components](https://reactjs.org/docs/web-components.html)
   - [ ] Hooks
-    - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
-    - [Hooks at a Glance](https://reactjs.org/docs/hooks-state.html)
-    - [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
-    - [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
-    - [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
-    - [Building Your Own Hooks](https://reactjs.org/docs/hooks-custom.html)
-    - [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
-    - [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
+    - [ ] [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+    - [ ] [Hooks at a Glance](https://reactjs.org/docs/hooks-state.html)
+    - [ ] [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
+    - [ ] [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+    - [ ] [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+    - [ ] [Building Your Own Hooks](https://reactjs.org/docs/hooks-custom.html)
+    - [ ] [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+    - [ ] [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
 
 ### State Management
@@ -127,7 +127,7 @@
 
 
 ### NodeJS
-> - To Do
+> - [ ] To Do
 
 
 ### APIs and Databases
@@ -135,6 +135,10 @@
 - [ ] Express
 - [ ] GraphQL
 - [ ] Creating an API
+
+### Integrating everithing
+- [ ] MERN Stack
+- [ ] Project utilizing everithing
 
 
 ----------
